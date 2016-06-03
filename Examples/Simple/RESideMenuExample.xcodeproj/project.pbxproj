@@ -316,6 +316,7 @@
 				GCC_PREFIX_HEADER = "RESideMenuExample/RESideMenuExample-Prefix.pch";
 				INFOPLIST_FILE = "RESideMenuExample/RESideMenuExample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.superfun.RESideMenuExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
@@ -331,6 +332,7 @@
 				GCC_PREFIX_HEADER = "RESideMenuExample/RESideMenuExample-Prefix.pch";
 				INFOPLIST_FILE = "RESideMenuExample/RESideMenuExample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.superfun.RESideMenuExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
